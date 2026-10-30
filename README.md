@@ -6,5 +6,6 @@ Changes from branch-a
 
 Changes from branch-b
 
-change from branch-d
+change from branch-c
 
+change from branch-d
